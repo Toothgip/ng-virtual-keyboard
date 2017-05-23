@@ -1,5 +1,6 @@
 export declare type KeyboardLayout = Array<Array<string>>;
 export declare const alphanumericKeyboard: KeyboardLayout;
+export declare const azertyKeyboard: KeyboardLayout;
 export declare const alphanumericNordicKeyboard: KeyboardLayout;
 export declare const extendedKeyboard: KeyboardLayout;
 export declare const extendedNordicKeyboard: KeyboardLayout;

@@ -7,6 +7,13 @@ export const alphanumericKeyboard: KeyboardLayout = [
   ['z', 'x', 'c', 'v', 'b', 'n', 'm', 'Spacer:5'],
 ];
 
+export const azertyKeyboard: KeyboardLayout = [
+  ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0', 'Backspace:2'],
+  ['a', 'z', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'CapsLock:2'],
+  ['q', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'Shift:2'],
+  ['w', 'x', 'c', 'v', 'b', 'n', 'Spacer:5'],
+];
+
 export const alphanumericNordicKeyboard: KeyboardLayout = [
   ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0', 'Spacer', 'Backspace:2'],
   ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'å', 'CapsLock:2'],

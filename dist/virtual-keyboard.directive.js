@@ -79,6 +79,9 @@ var NgVirtualKeyboardDirective = (function () {
             case 'phone':
                 layout = layouts_1.phoneKeyboard;
                 break;
+            case 'azerty':
+                layout = layouts_1.azertyKeyboard;
+                break;
             default:
                 layout = this.layout;
                 break;
