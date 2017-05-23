@@ -1,5 +1,5 @@
 {
-  "name": "@protacon/ng-virtual-keyboard",
+  "name": "@toothgip/ng-virtual-keyboard",
   "version": "0.6.1",
   "description": "Virtual Keyboard for Angular applications",
   "main": "dist/ng-virtual-keyboard.umd.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/protacon/ng-virtual-keyboard.git"
+    "url": "git+https://github.com/Toothgip/ng-virtual-keyboard"
   },
   "keywords": [
     "Angular"
   ],
-  "author": "Protacon",
+  "author": "Toothgip",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/protacon/ng-virtual-keyboard/issues"
